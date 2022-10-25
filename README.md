@@ -15,6 +15,7 @@ The machine learning regression models are used for predicting customer satisfac
 
 
 Tools used: Python,Jupyter notebook
+
 Libraries : pandas,numpy,matplotlib,seaborn, sklearn,imbalanced learn
 
 Deployment using Flask, Demo:
